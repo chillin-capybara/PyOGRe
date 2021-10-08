@@ -16,4 +16,4 @@ class Metric:
         pass
 
     def __str__(self):
-        return f"{self.components}\n{self.symbols}"
+        return self.components, self.symbols

@@ -23,4 +23,4 @@ class Tensor:
         pass
 
     def __str__(self):
-        return f"Type: {self.type}, Metric:\n{self.metric}\nComponents: {self.components}"
+        return self.type, self.metric, self.components
