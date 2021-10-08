@@ -1,0 +1,16 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/PyOGRe/Metric.py
+src/PyOGRe/Tensor.py
+src/PyOGRe/__init__.py
+src/PyOGRe/py.typed
+src/PyOGRe.egg-info/PKG-INFO
+src/PyOGRe.egg-info/SOURCES.txt
+src/PyOGRe.egg-info/dependency_links.txt
+src/PyOGRe.egg-info/desktop.ini
+src/PyOGRe.egg-info/not-zip-safe
+src/PyOGRe.egg-info/requires.txt
+src/PyOGRe.egg-info/top_level.txt
